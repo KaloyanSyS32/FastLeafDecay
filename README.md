@@ -26,7 +26,7 @@ This avoids the performance issues caused by repeatedly checking large areas of 
 
 ## Requirements
 
-- Minecraft: 1.20+
+- Minecraft: 1.21.11
 - Server software:
   - Paper
   - Spigot
