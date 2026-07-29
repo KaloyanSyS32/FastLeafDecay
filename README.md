@@ -29,7 +29,7 @@ This avoids the performance issues caused by repeatedly checking large areas of 
 - Minecraft: 1.21.11
 - Server software:
   - Paper
-  - Spigot
+  - Purpur
   - Bukkit
 
 - Java: 17+
