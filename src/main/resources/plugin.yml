@@ -1,0 +1,6 @@
+name: FastLeafDecay
+version: 1.0.0
+main: com.im4theone.fastleafdecay.FastLeafDecay
+api-version: '1.21'
+author: im4theone
+description: Fast and smooth leaf decay when trees are chopped down.
